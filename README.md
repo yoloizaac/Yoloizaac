@@ -8,6 +8,7 @@ I’m also specialising in **Data Engineering** with a **Minor in Entrepreneursh
 
 🚀 What I’m building
 **SkillLink** — a student-built platform to help students connect with complementary teammates and collaborate on real projects (not just “entrepreneurship tips”). 
+
 🧠 Interests
 - Generative AI + developer tooling (I share updates / thoughts on models like **Google Gemini**). 
 
@@ -18,6 +19,7 @@ Expected Graduation: 2027 April
 
 💼 Experience  
 Incoming Business Data Analyst Intern (Thailand) 
+
 🧰 Tech Stack (from your publicly visible project evidence)
 - Node.js | TypeScript | VS Code Extension API (from “brainrot buddy”) 
 
