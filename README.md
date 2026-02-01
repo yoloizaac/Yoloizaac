@@ -10,7 +10,7 @@ I’m also specialising in **Data Engineering** with a **Minor in Entrepreneursh
 **SkillLink** —> a student-built platform to help students connect with complementary teammates and collaborate on real projects (not just “entrepreneurship tips”). 
 
 🧠 Interests
-- Generative AI + developer tooling (I share updates / thoughts on models like **Google Gemini**). 
+Generative AI + developer tooling (I share updates / thoughts on models like **Google Gemini**). 
 
 🎓 Education  
 **Ngee Ann Polytechnic** — Data Science student (Data Engineering specialisation)  
