@@ -1,4 +1,4 @@
-Hi, I’m Isaac 👋✨  
+Hi, I’m Isaac Lum👋✨  
 A guy who is curious about everything!
 
 I’m currently looking for polytechnic internships / opportunities in **data analytics / data engineering / data science Startups** so feel free to reach out via LinkedIn.
@@ -25,7 +25,7 @@ Incoming Business Data Analyst Intern (Thailand)
 
 
 📁 Projects  
-Checkout my GitHub profile!
+Checkout my GitHub profile! These are my Main project that were built with others for hackathons or passion projects!
 - SkillLink (concept + build story) - Private but check out the website https://skill-link.link
 - brainrot buddy (VS Code extension project) 
 - HR hiring Copilot
