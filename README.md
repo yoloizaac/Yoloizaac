@@ -1,36 +1,25 @@
-Hi, I’m Isaac Lum👋✨  
-A guy who is curious about everything!
+# Hi, I'm Isaac Lum 👋
 
-I’m currently looking for polytechnic internships / opportunities in **data analytics / data engineering / data science Startups** so feel free to reach out via LinkedIn.
+**AI Builder & Data Engineer** based between Singapore and Bangkok. I take products end to end, from the data schema and prompt design to a shipped interface, and build the analytics behind them.
 
-I’m a **Lien Ying Chow Scholar** and an **Incoming Business Data Analyst Intern (Thailand)**.  
-I’m also specialising in **Data Engineering** with a **Minor in Entrepreneurship**. 
+🔭 Currently a **Data Analytics Intern (Digital Shelf)** at **Cube Asia** in Bangkok, building Snowflake pipelines, AI-assisted SKU matching, and internal AI tooling.
+🎓 **Lien Ying Chow Scholar** at **Ngee Ann Polytechnic**, Data Science (Data Engineering specialisation, Minor in Entrepreneurship). Expected April 2027.
+🏆 1st place, University of Glasgow Hackathon 2025.
 
-🚀 What I’m building
-**SkillLink** —> a student-built platform to help students connect with complementary teammates and collaborate on real projects (not just “entrepreneurship tips”). 
+---
 
-🧠 Interests
-Generative AI + developer tooling (I share updates / thoughts on models like **Google Gemini**). 
+### 🚀 What I'm building
 
-🎓 Education  
-**Ngee Ann Polytechnic** — Data Science student (Data Engineering specialisation)  
-Minor in Entrepreneurship  
-Expected Graduation: 2027 April
+- **[SPIRE](https://yoloizaac.github.io/the-tower-web/)** — an idle tower-defense game that runs fully in the browser.
+- **Brainrot Buddy** — a VS Code extension built on the editor's extension API.
+- **Rough Cut** — an [AI-directed video editing pipeline](https://yoloizaac.github.io/rough-cut/): Whisper + Claude write the cut plan, ffmpeg renders it.
+- **DeckForge** — turns raw notes into consulting-grade, fully editable PowerPoint decks with Claude.
+- **SAMEDAY** — my freelance [one-day website studio](https://skill-link.link). Brief by 10am, live by 10pm.
 
-💼 Experience  
-Incoming Business Data Analyst Intern (Thailand) 
+### 🧰 Tech
 
-🧰 Tech Stack (from your publicly visible project evidence)
-- Node.js | TypeScript | VS Code Extension API (from “brainrot buddy”) 
+`Python` · `SQL` · `Snowflake` · `TypeScript` · `React` · `Next.js` · `Node` · `Supabase` · `Claude / LLM apps` · `Prompt engineering` · `Agentic workflows`
 
+### 🤝 Let's connect
 
-📁 Projects  
-Checkout my GitHub profile! These are my Main project that were built with others for hackathons or passion projects!
-- SkillLink (concept + build story) - Private but check out the website https://skill-link.link
-- brainrot buddy (VS Code extension project) 
-- HR hiring Copilot
-
-🤝 Let’s Connect!
-🔗 LinkedIn: https://www.linkedin.com/in/isaac-lum/
-
-🔗 Website/Portfolio: https://yoloizaac.com
+🌐 Portfolio: **[yoloizaac.com](https://yoloizaac.com)** · 💼 [LinkedIn](https://www.linkedin.com/in/isaac-lum/) · 📊 [Kaggle](https://www.kaggle.com/yoloizaac)
