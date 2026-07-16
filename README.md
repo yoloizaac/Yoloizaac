@@ -1,12 +1,37 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2342D6&center=true&vCenter=true&width=650&lines=AI+Builder+and+Data+Engineer;Data+Analytics+Intern+at+Cube+Asia%2C+Bangkok;Ten+things+in+production%2C+not+a+hundred+in+a+notebook;Brief+by+10am%2C+live+site+by+10pm" alt="AI Builder and Data Engineer" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoloizaac.com-2342D6?style=for-the-badge)](https://yoloizaac.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Lum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-lum/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-yoloizaac-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yoloizaac)
+
+<img src="https://komarev.com/ghpvc/?username=yoloizaac&label=Profile+views&color=2342D6&style=flat-square" alt="Profile views" />
+
+<!--
+  LIVE PRESENCE BADGES, staged and ready to enable.
+  These read Discord presence, not GitHub. GitHub exposes no online status.
+  To turn on, replace DISCORD_ID below with your Discord user ID and uncomment.
+  Setup, all three are required or the badges render as unknown:
+    1. Discord, Settings, Advanced, enable Developer Mode, then right click your
+       avatar and Copy User ID.
+    2. Join the statusbadges.me Discord at https://statusbadges.me so their bot
+       can see your presence.
+    3. Discord, Settings, Connections, connect Spotify, and turn on
+       "Display Spotify as your status".
+  Spotify only shows while desktop Discord is running and playing.
+
+[![Spotify](https://api.statusbadges.me/badge/spotify/DISCORD_ID)](https://open.spotify.com/user/yoloizaac)
+[![Status](https://api.statusbadges.me/badge/status/DISCORD_ID?simple=true)](https://discord.com/users/DISCORD_ID)
+-->
+
+</div>
+
 # Isaac Lum
 
 **AI Builder and Data Engineer.** I take products the whole way: from the data schema and the prompt design to a shipped interface and the analytics behind it. Based between Singapore and Bangkok.
 
 I am a Lien Ying Chow Scholar studying Data Science at Ngee Ann Polytechnic, and I currently build data and AI tooling as a Data Analytics Intern at Cube Asia in Bangkok. Most of what I make starts as a real problem someone has, gets a rough version shipped within days, and then earns its keep or gets cut. I would rather have ten things in production than a hundred in a notebook.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoloizaac.com-2342D6?style=for-the-badge)](https://yoloizaac.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Lum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-lum/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-yoloizaac-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yoloizaac)
 
 ---
 
@@ -59,8 +84,32 @@ Working areas: LLM applications, prompt engineering, agentic and tool-use workfl
 
 First place at the University of Glasgow Hackathon 2025. Lien Ying Chow Scholar at Ngee Ann Polytechnic, specialising in Data Engineering with a minor in Entrepreneurship, graduating April 2027. Outside of code I host community events, lead charity projects, and write about what I ship.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoloizaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="150" alt="Isaac's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoloizaac&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top languages" />
+---
+
+## The numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yoloizaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="Isaac's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoloizaac&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=yoloizaac&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### The snake eats my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yoloizaac/Yoloizaac/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yoloizaac/Yoloizaac/output/snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/yoloizaac/Yoloizaac/output/snake.svg" />
+</picture>
+
+</div>
 
 ---
 
