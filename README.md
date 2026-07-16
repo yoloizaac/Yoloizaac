@@ -8,22 +8,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=yoloizaac&label=Profile+views&color=2342D6&style=flat-square" alt="Profile views" />
 
-<!--
-  LIVE PRESENCE BADGES, staged and ready to enable.
-  These read Discord presence, not GitHub. GitHub exposes no online status.
-  To turn on, replace DISCORD_ID below with your Discord user ID and uncomment.
-  Setup, all three are required or the badges render as unknown:
-    1. Discord, Settings, Advanced, enable Developer Mode, then right click your
-       avatar and Copy User ID.
-    2. Join the statusbadges.me Discord at https://statusbadges.me so their bot
-       can see your presence.
-    3. Discord, Settings, Connections, connect Spotify, and turn on
-       "Display Spotify as your status".
-  Spotify only shows while desktop Discord is running and playing.
-
-[![Spotify](https://api.statusbadges.me/badge/spotify/DISCORD_ID)](https://open.spotify.com/user/yoloizaac)
-[![Status](https://api.statusbadges.me/badge/status/DISCORD_ID?simple=true)](https://discord.com/users/DISCORD_ID)
--->
+<!-- Live presence, read from Discord (GitHub exposes no online status).
+     Spotify shows only while desktop Discord runs with "Display Spotify as your status" on. -->
+![status](https://api.statusbadges.me/badge/status/1137909829491503165?simple=true)
+[![spotify](https://api.statusbadges.me/badge/spotify/1137909829491503165)](https://api.statusbadges.me/openspotify/1137909829491503165)
 
 </div>
 
