@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2342D6&center=true&vCenter=true&width=650&lines=AI+Builder+and+Data+Engineer;Data+Analytics+Intern+at+Cube+Asia%2C+Bangkok;Ten+things+in+production%2C+not+a+hundred+in+a+notebook;Brief+by+10am%2C+live+site+by+10pm" alt="AI Builder and Data Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2342D6&center=true&vCenter=true&width=880&lines=AI+Builder+and+Data+Engineer;Data+Analytics+Intern+at+Cube+Asia%2C+Bangkok;Ten+things+in+production%2C+not+a+hundred+in+a+notebook;Brief+by+10am%2C+live+site+by+10pm" alt="AI Builder and Data Engineer" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoloizaac.com-2342D6?style=for-the-badge)](https://yoloizaac.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac%20Lum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-lum/)
