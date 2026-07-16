@@ -78,8 +78,8 @@ First place at the University of Glasgow Hackathon 2025. Lien Ying Chow Scholar 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoloizaac&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="Isaac's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoloizaac&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+<img src="./profile/stats.svg" height="165" alt="Isaac's GitHub stats" />
+<img src="./profile/top-langs.svg" height="165" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=yoloizaac&theme=tokyonight&hide_border=true" height="165" alt="Contribution streak" />
 
